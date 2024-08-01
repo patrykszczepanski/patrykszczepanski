@@ -2,7 +2,7 @@
 <br />
 <br />
 <a href="#">
-  <img height="200" align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api?username=patrykszczepanski&include_all_commits=true&show=prs_merged_percentage,reviews&show_icons=true&theme=radical&rank_icon=github"/>
+  <img height="200" align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api?username=patrykszczepanski&include_all_commits=true&show=prs_merged_percentage,reviews&show_icons=true&theme=radical&rank_icon=github&hide_border=true"/>
 </a>
 <a href="#">
   <img height="200" align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api/top-langs/?username=patrykszczepanski&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" />
