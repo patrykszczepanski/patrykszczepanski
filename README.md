@@ -2,7 +2,7 @@ Hello there!
 
 **About me**
 
-| <img align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api?username=patrykszczepanski&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only&hide_border=true" alt="Anurag's github stats" media="(prefers-color-scheme: dark)" /> | <img align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api/top-langs/?username=patrykszczepanski&layout=compact&theme=dark#gh-dark-mode-only&hide_border=true" media="(prefers-color-scheme: dark)" /> |
+| <img align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api?username=patrykszczepanski&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api/top-langs/?username=patrykszczepanski&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Top Repositories
