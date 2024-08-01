@@ -1,9 +1,14 @@
-Hello there!
-
-**About me**
-
-| <img align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api?username=patrykszczepanski&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api/top-langs/?username=patrykszczepanski&layout=compact&theme=transparent&hide_border=true" /> |
-| ------------- | ------------- |
+**Hello there!**
+<br />
+<br />
+<a href="#">
+  <img height="200" align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api?username=patrykszczepanski&include_all_commits=true&show=prs_merged_percentage,reviews&show_icons=true&theme=radical&rank_icon=github"/>
+</a>
+<a href="#">
+  <img height="200" align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api/top-langs/?username=patrykszczepanski&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" />
+</a>
+<br />
+<br />
 
 #### Top Repositories
 ---
