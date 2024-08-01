@@ -1,16 +1,26 @@
-## Hi there 👋
+Hello there!
 
-<!--
-**patrykszczepanski/patrykszczepanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
 
-Here are some ideas to get you started:
+| <img align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api?username=patrykszczepanski&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only&hide_border=true" alt="Anurag's github stats" media="(prefers-color-scheme: dark)" /> | <img align="center" src="https://github-readme-stats-chi-seven-91.vercel.app/api/top-langs/?username=patrykszczepanski&layout=compact&theme=dark#gh-dark-mode-only&hide_border=true" media="(prefers-color-scheme: dark)" /> |
+| ------------- | ------------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Top Repositories
+---
+
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>-->
